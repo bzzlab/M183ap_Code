@@ -1,0 +1,6 @@
+/.idea
+venv
+*.bkp
+*.dtmp
+*.pyc
+repo*.sh
